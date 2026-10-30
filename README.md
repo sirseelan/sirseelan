@@ -1,16 +1,13 @@
-## Hi there 👋
+# Engineering Projects
 
-<!--
-**sirseelan/sirseelan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Sirseelan. I'm interested in robotics, embedded systems, and electronics, and I enjoy learning by building hardware and software prototypes.
 
-Here are some ideas to get you started:
+## Selected public projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | What you'll find |
+| --- | --- |
+| [VEX Robotics Team 1516A](https://github.com/sirseelan/pushback1516A) | VEX V5 drivetrain configuration, driver controls, and IMU setup using PROS and LemLib |
+| [Card Launcher Prototype](https://github.com/sirseelan/cardgun) | A physical hardware prototype, with a build photograph and demonstration video |
+| [Badminton Random 2](https://github.com/sirseelan/badminton-random2) | A two-player Godot physics prototype exploring jumping, balance, and swinging rackets |
+
+The project READMEs explain what is implemented, what is still in progress, and where to find the source.
